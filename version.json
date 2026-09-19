@@ -1,6 +1,6 @@
 {
-    "version":  "1.1",
+    "version":  "1.2",
     "bin":  "firmware.bin",
     "md5":  "d5a783e03f96e4776d84538de2c72cfc",
-    "notes":  "update"
+    "notes":  "test"
 }
