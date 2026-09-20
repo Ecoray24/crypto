@@ -1,6 +1,6 @@
 {
-    "version":  "1.3",
+    "version":  "1.2",
     "bin":  "firmware.bin",
-    "md5":  "8e618fc029a9754cd73479f824e482c7",
-    "notes":  "novo"
+    "md5":  "9841ecc8f86be6118894d307792281fe",
+    "notes":  "novo fix bug"
 }
